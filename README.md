@@ -1,13 +1,10 @@
-# alarma-datacenter
-Alarma de temperatura para un datacenter
-
+# ALARMA DE VARIACIÓN DE TEMPERATURA PARA DATACENTER
+ 
  Fundación Universitaria del Área Andina
  Diplomado: Python - Devnet
  
  Estudiante: Mateo Arenas Rivera
  Fecha: 24/07/2021
- 
- ALARMA DE VARIACIÓN DE TEMPERATURA PARA DATACENTER
  
  Aplicativo para el seguimiento constante de la temperatura y humedad de un datacenter,
  el dispositivo se conecta a la red wifi y en caso de una novedad se le notificará al 
